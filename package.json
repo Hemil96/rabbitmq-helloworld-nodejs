@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq-nodejs-sample",
+  "version": "1.0.0",
+  "description": "A simple node JS example of handling message queue in using open source RabbitMQ message broker service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Hemil96@github.com/Hemil96/rebbitMQ-nodejs.git"
+  },
+  "author": "Hemil96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemil96/rebbitMQ-nodejs/issues"
+  },
+  "homepage": "https://github.com/Hemil96/rebbitMQ-nodejs#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
